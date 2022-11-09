@@ -11,7 +11,7 @@ Platform that has higher priority will be higher on the list.
 Nền tảng có độ ưu tiên cao hơn sẽ nằm trước.
 
 - Matrix:   [@badaimweeb:matrix.org](https://matrix.to/#/@badaimweeb:matrix.org)
-- Discord:  [Server (BC HIDEOUT)](https://discord.gg/uF9gxYveek) - BadAimWeeb#0727 (DM is only available after contact me in other places first)
+- Discord:  [Server (BC HIDEOUT)](https://discord.gg/uF9gxYveek) - BadAimWeeb#0727
 - Email:    [x@badaimweeb.me](mailto:x@badaimweeb.me) - [badaimweeb@protonmail.com](mailto:badaimweeb@protonmail.com) (PGP key: [8733744589C41E9B](https://keys.openpgp.org/vks/v1/by-fingerprint/3562D1F1CA801D9A12A2188D8733744589C41E9B))
 - Session:  05300c9d05b1055af2b7f2c3b8c72b9945d82e45b6bef97949010db4cbd30e6804
 - GitHub:   [@BadAimWeeb](https://github.com/BadAimWeeb)

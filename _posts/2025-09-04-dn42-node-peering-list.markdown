@@ -36,7 +36,7 @@ This page will temporary serve as a node directory where I have server presence 
 | C13         | hk-hkg1     | `hk-hkg1.rc.badaimweeb.me` | Yes  | Yes    |
 | C14         | us-tpa1     | `us-tpa1.rc.badaimweeb.me` | Yes  | Yes    |
 | C15         | tw-tpe1     | `tw-tpe1.rc.badaimweeb.me` | Yes  | Yes    |
-| E03         | vn-sgn2     | `vn-sgn2.rc.badaimweeb.me` | Yes  | Yes    |
+| E03         | vn-sgn2     | `vn-sgn2.rc.badaimweeb.me` | Yes  | No     |
 | H01         | vn-dad1     | `vn-dad1.rc.badaimweeb.me` | NAT  | Yes    | Residental network. Hardware operated by MICHIOXD-MNT. Alternatively, you can contact him for peering on this location.
 
 ## Contact
